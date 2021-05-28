@@ -1,9 +1,13 @@
 .next {
   float: left;
+  width: 400px;
 
 }
 .flashy {
   float: right;
+  width: 400px;
+  padding-right: 10px;
+  height: auto;
 }
 .zoom {
   float: left;
