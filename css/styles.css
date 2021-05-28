@@ -1,6 +1,7 @@
 .next {
   float: left;
   width: 400px;
+  height: 400px;
 
 }
 .flashy {
@@ -9,6 +10,8 @@
   padding-right: 10px;
   height: auto;
 }
-.zoom {
+img {
+  height: 500px;
+  width: 400px;
   float: left;
 }
