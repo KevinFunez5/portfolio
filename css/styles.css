@@ -2,16 +2,40 @@
   float: left;
   width: 400px;
   height: 400px;
+  text-align: center;
+  padding-left: 500px;
 
 }
 .flashy {
   float: right;
   width: 400px;
-  padding-right: 10px;
+  padding-right: 500px;
   height: auto;
+  text-align: center;
+}
+.flashy ul li {
+  text-align: left;
+  padding: 10px;
+  color: blue;
+}
+.flashy ol li {
+  text-align: left;
+  padding: 10px;
 }
 img {
-  height: 500px;
-  width: 400px;
-  float: left;
+  width: 100px;
+  margin: auto;
+  height: auto;
+  display: block;
+}
+.important {
+  color: red;
+  font-style: italic;
+  font-weight: bold
+}
+.special {
+  text-align: center;
+}
+p {
+  font-size: large;
 }
