@@ -25,7 +25,7 @@
   font-weight: bold;
 }
 img {
-  width: 100px;
+  width: 300px;
   margin: auto;
   height: auto;
   display: block;
@@ -40,4 +40,7 @@ img {
 }
 p {
   font-size: medium;
+}
+.loud {
+  padding-bottom: 50px;
 }
