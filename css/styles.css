@@ -17,10 +17,12 @@
   text-align: left;
   padding: 10px;
   color: blue;
+
 }
 .flashy ol li {
   text-align: left;
   padding: 10px;
+  font-weight: bold;
 }
 img {
   width: 100px;
@@ -37,5 +39,5 @@ img {
   text-align: center;
 }
 p {
-  font-size: large;
+  font-size: medium;
 }
