@@ -14,7 +14,11 @@
 
 #### In this project I started with a Bio on myself, I added 2 pictures on a divs. I listed projects I have worked on before. Added the links to those projects. I created a paragraph on why i chose to become a programmer. I also added some background information.
 
+## Setup/Installation Requirements
 
+* Clone this repository to your desktop
+* Navigate to the top level of the directory
+*run (code .) to open code in VS
 ## Known Bugs
 
 * No known bugs
