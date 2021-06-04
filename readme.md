@@ -18,7 +18,8 @@
 
 * Clone this repository to your desktop
 * Navigate to the top level of the directory
-*run (code .) to open code in VS
+* run (code .) to open code in VS
+* 
 ## Known Bugs
 
 * No known bugs
